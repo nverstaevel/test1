@@ -8,6 +8,10 @@ public class Test {
 		//Ceci est une autre modification
 
 		//Ceci est une modification
+		
+		// Je veux une nouvelle branche
+		
+		// j'ajoute du code...
 	}
 
 }
